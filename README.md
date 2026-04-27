@@ -1,4 +1,4 @@
-# Escorpigame
+
 # EscorpioMed — Protocolo em Jogo
 
 Aplicação interativa desenvolvida em **Streamlit** para apoiar o ensino, a revisão e a fixação de condutas clínicas relacionadas ao **escorpionismo**, com base no **PCDT de Acidentes Escorpiônicos — Ministério da Saúde, 2026**.
